@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap');
+:root{
+    --cor-laranja:#ff7a24;
+    --cor-salmao:#ff6d54;
+    --cor-rosaescuro:#f76d75;
+    --cor-rosa:#e8728f;
+    --cor-rosadois:#c97ba5;
+    --font:"Sixtyfour Convergence", sans-serif;
+
+}
+body{
+    background-color: var(--cor-laranja);
+    color: var(--cor-salmao);
+    font-family: var(--font);
+}
